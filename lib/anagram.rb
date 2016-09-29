@@ -1,7 +1,7 @@
 
 
 class Anagram
-  attr_reader :match
+
   def initialize(word)
     @word = word
   end
